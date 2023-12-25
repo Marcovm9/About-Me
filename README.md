@@ -1,4 +1,4 @@
-#About Me
+<h2>About Me
 
 Hello there! I'm Marco Mendoza, a passionate Electrical Computer Engineering student based in the vibrant city of Seattle, Washington. I thrive on challenges and am dedicated to making a positive impact in both my academic and professional pursuits. Here's a glimpse into my journey:
 
