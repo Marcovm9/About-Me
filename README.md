@@ -16,7 +16,7 @@ In the realm of coding and engineering, I've undertaken various personal project
 
 My professional journey has been diverse, from contributing to the operation of Amazon warehouses in SeaTac/Tukwila as a Warehouse Associate to my current role as a Student Circulation Assistant at the University of Washington Suzzallo and Allen Libraries. In both roles, I've demonstrated attention to detail, efficiency, and a commitment to providing exceptional service.
 
-## Leadership Experience
+## Leadership Experience 
 
 Currently serving as the Chi Theta Psi Vice President of Internal Affairs at the University of Washington, I play a pivotal role in fostering brotherhood. My responsibilities include overseeing committee progress, communicating effectively, and stepping in as needed to ensure the smooth functioning of the Brotherhood.
 
