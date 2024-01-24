@@ -1,6 +1,6 @@
 # About Me
 
-Hello there! I'm Marco Mendoza, a passionate Infromatics student based in the vibrant city of Seattle, Washington. I thrive on challenges and am dedicated to making a positive impact in both my academic and professional pursuits. Here's a glimpse into my journey.
+Hello there! I'm Marco Mendoza, a passionate Informatics student with an Electrical Engineering background based in the vibrant city of Seattle, Washington. I thrive on challenges and am dedicated to making a positive impact in both my academic and professional pursuits. Here's a glimpse into my journey.
 
 ## Education
 
